@@ -52,7 +52,9 @@ graph TD
     class DHT,SOIL,MQ2 sensor;
     class RELAY,PUMP,BUZZ actuator;
 ```
-
+<p align="center">
+  <img src="schematics/circuit_diagram.png" alt="Circuit Diagram" width="800"/>
+</p>
 ---
 
 ## Hardware Configuration & Pinout
